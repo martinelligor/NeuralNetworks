@@ -1,2 +1,2 @@
 # NeuralNetworks
-Repositório utilizado na disciplina de Redes Neurais do ICMC-USP
+Repository used for the discipline of Introduction to Neural Networks at the ICMC-USP
