@@ -1,0 +1,261 @@
+--Época = 2
+
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.7999999821186066
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.8999999761581421
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.5999999940395355
+Filter1: 16 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 16 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.7999999821186066
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.6500000059604645
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.5499999970197678
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.6000000238418579
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.699999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.75
+Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.7000000178813934
+Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.5499999970197678
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.6500000059604645
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.44999999552965164
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.6000000238418579
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.8999999761581421
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.5
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.800000011920929
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.7999999821186066
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.699999988079071
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.7999999821186066
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.5000000149011612
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.7000000178813934
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.800000011920929
+Filter1: 32 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.800000011920929
+Filter1: 32 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 32 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 32 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.800000011920929
+   Filter1: 64 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.75
+Filter1: 64 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.800000011920929
+Filter1: 64 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.6000000089406967
+Filter1: 64 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 64 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.5
+Filter1: 64 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.6000000089406967
+Filter1: 64 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.75
+Filter1: 64 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.4000000134110451
+Filter1: 64 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.5499999970197678
+Filter1: 64 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 64 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.8999999761581421
+Filter1: 64 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.800000011920929
+Filter1: 64 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.699999988079071
+Filter1: 64 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.45000000670552254
+Filter1: 64 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.6500000059604645
+Filter1: 64 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 64 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.5000000149011612
+Filter1: 64 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.4000000059604645
+Filter1: 64 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.7999999821186066
+Filter1: 64 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.8999999761581421
+Filter1: 64 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 1.0
+Filter1: 64 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 64 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.6500000059604645
+Filter1: 64 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 64 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.5499999970197678
+Filter1: 64 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.7000000178813934
+Filter1: 64 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.3500000089406967
+
+-- Época = 3
+
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.8999999761581421
+Filter1: 16 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.75
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.9000000059604645
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 16 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.8999999761581421
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.800000011920929
+Filter1: 16 Filter2: 64 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.949999988079071
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 1.0
+Filter1: 16 Filter2: 64 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.9000000059604645
+   Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 1.0
+Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.949999988079071
+Filter1: 32 Filter2: 16 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.7000000178813934
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.9000000059604645
+Filter1: 32 Filter2: 16 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.6500000059604645
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.9000000059604645
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.6000000089406967
+Filter1: 32 Filter2: 16 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.800000011920929
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.75
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.949999988079071
+Filter1: 32 Filter2: 32 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 32 Kernel_size1: [7, 7] Kernel_size2: [9, 9]
+   Accuracy: 0.7999999821186066
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [5, 5]
+   Accuracy: 0.8999999761581421
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [7, 7]
+   Accuracy: 0.7999999821186066
+Filter1: 32 Filter2: 32 Kernel_size1: [9, 9] Kernel_size2: [9, 9]
+   Accuracy: 0.699999988079071
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [5, 5]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [7, 7]
+   Accuracy: 0.8499999940395355
+Filter1: 32 Filter2: 64 Kernel_size1: [5, 5] Kernel_size2: [9, 9]
+   Accuracy: 0.949999988079071
